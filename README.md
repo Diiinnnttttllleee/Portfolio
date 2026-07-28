@@ -8,6 +8,6 @@ A personal UX/UI design portfolio showcasing three self-initiated case studies:
 
 Each project includes research, problem framing, design rationale, and honest reflection on what worked and what I'd improve.
 
- **Live site:** https://github.com/Diiinnnttttllleee/Portfolio/tree/main/DPM_Portfolio
+ **Live site:** https://dpm-portfolio.netlify.app/
 
 Built with HTML, CSS, and Figma.
